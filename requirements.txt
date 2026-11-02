@@ -1,0 +1,6 @@
+psutil>=5.9.5
+requests>=2.31.0
+setuptools>=65.0.0
+gputil>=1.4.0
+wmi
+pywin32
