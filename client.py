@@ -9,7 +9,7 @@ import psutil
 import requests
 
 # CONFIGURATION: Target server host IP and port
-SERVER_IP = "127.0.0.1"
+SERVER_IP = "10.39.1.12"
 PORT = 5000
 INTERVAL = 10
 
